@@ -12,3 +12,5 @@ A Manifest V2 color picker add-on that takes the background and text colors from
   Enable "Developer Mode" in the top right corner\
   Select "Load Unpacked"\
   Select the folder containing your extension files
+
+Tested on Firefox 133.0.3 (64-bit)
